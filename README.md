@@ -12,15 +12,15 @@ I'm a web and desktop developer with 8 years of coding experience. I specialize 
 - VB.net
 - PHP
 - JavaScript
-- jQuery
 
 ### **Web Technologies**
 - HTML
 - CSS
 
-### **Frameworks**
-- CodeIgniter
-- Bootstrap
+### **Libraries/Frameworks**
+- jQuery (JavaScript library)
+- CodeIgniter (PHP framework)
+- Bootstrap (CSS framework)
 
 ### **Database Management**
 - SQL
