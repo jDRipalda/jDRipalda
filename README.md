@@ -3,7 +3,7 @@
 I'm a web and desktop developer with 8 years of coding experience. I specialize in a range of programming languages and technologies, and I'm always eager to learn and grow.
 
 ## 📫 Contact Information
-- **Email:** [mis.jdripalda@gmail.com](mailto:mis.jdripalda@gmail.com)
+- 📧 **Email:** [mis.jdripalda@gmail.com](mailto:mis.jdripalda@gmail.com)
 
 ## 💻 Skills and Technologies
 
