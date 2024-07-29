@@ -1,27 +1,37 @@
-I'm a web and desktop developer. I've been learning to code for 8 years. I have skills in HTML, JavaScript, and CSS. The programming languages I use are C#, VB.net, PHP, JavaScript, and jQuery. I also have experience with SQL and MySQL servers. Additionally, I am continuously learning new technologies.
+# Hi there! 👋
 
-- ✉️ You can contact me at mis.jdripalda@gmail.com
-- 🧠 I'm learning CodeIgniter and Bootstrap
-- 🤝 I'm open to collaborating on web and desktop development
+I'm a web and desktop developer with 8 years of coding experience. I specialize in various programming languages and technologies and am always eager to learn and adapt to new tools.
 
-# My Profile
+## Contact Information
+- 📧 **Email:** [mis.jdripalda@gmail.com](mailto:mis.jdripalda@gmail.com)
 
-## Skills
+## Skills and Technologies
 
-- **Programming Languages:**
-  - C#
-  - VB.net
-  - PHP
-  - JavaScript
-  - jQuery
+### Programming Languages
+- C#
+- VB.net
+- PHP
+- JavaScript
+- jQuery
 
-- **Web Technologies:**
-  - HTML
-  - CSS
+### Web Technologies
+- HTML
+- CSS
 
-- **Frameworks:**
-  - CodeIgniter
+### Frameworks
+- CodeIgniter
+- Bootstrap
 
-- **Database Management:**
-  - SQL
-  - MySQL
+### Database Management
+- SQL
+- MySQL
+
+## Learning and Growth
+Currently expanding my skills in **CodeIgniter** and **Bootstrap**. I am continuously exploring new technologies to enhance my development capabilities.
+
+## Collaboration
+I’m open to collaborating on web and desktop development projects. If you have an idea or project in mind, feel free to reach out!
+
+---
+
+Feel free to explore my repositories and projects. Let's connect and create something amazing together!
