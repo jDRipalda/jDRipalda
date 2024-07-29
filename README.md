@@ -1,6 +1,6 @@
 I'm a web and desktop developer. I've been learning to code for 8 years. I have skills in HTML, JavaScript, and CSS. The programming languages I use are C#, VB.net, PHP, JavaScript, and jQuery. I also have experience with SQL and MySQL servers. Additionally, I am continuously learning new technologies.
 
-![PHP Logo](https://www.php.net/images/logos/php-logo.svg)
+- ![JavaScript Logo](https://example.com/js-logo.png) JavaScript
 
 - ✉️ You can contact me at mis.jdripalda@gmail.com
 - 🧠 I'm learning CodeIgniter and Bootstrap
