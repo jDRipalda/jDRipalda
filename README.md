@@ -26,6 +26,9 @@ I'm a web and desktop developer with 8 years of coding experience. I specialize 
 - SQL
 - MySQL
 
+## Learning and Growth
+Currently expanding my skills in **CodeIgniter** and **Bootstrap**. I am continuously exploring new technologies to enhance my development capabilities.
+
 ## 🌱 Currently Learning
 - **CodeIgniter**
 - **Bootstrap**
